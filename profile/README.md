@@ -3,6 +3,7 @@
     <img src="https://i.postimg.cc/prjkLBQM/poland-bte.gif" alt="logo">
   </a>
   <h1 align="center"> 👋 Hey! We're Build the Earth Poland.</h1>
+  <h2 align="center">If you have any problems with our plugins, text me on discord: <b>briziak</b></h2>
 </p>
 
 <br>
